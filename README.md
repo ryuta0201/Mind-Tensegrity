@@ -3,11 +3,12 @@
 Interactive 3-layer tensegrity **language constellation** built with p5.js  
 – tap = POP + sine tone ✧ drag = orbit ✧ pinch = zoom
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpeg)
 
 ## Try it
 
-**Desktop / Mobile:** https://<your-name>.github.io/Mind-Tensegrity/  
+**Desktop / Mobile:** 
+https://ryuta0201.github.io/Mind-Tensegrity/ 
 
 > First tap will ask for audio permission on iOS.
 

@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# build artifacts
+dist/
+*.zip
+
+# node/p5
+node_modules/
+p5.sound.min.js.map
